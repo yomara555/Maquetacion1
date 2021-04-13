@@ -1,0 +1,2222 @@
+.tituloMenu{
+	font-style: normal;
+	font-size: 230%;
+}
+.barra{
+	height: 100px;
+	width: 101%;
+	background-color: #212121;
+	z-index: 1;
+	display: flex;
+	justify-content: center;
+	position: absolute;
+	top: 80px;
+	left: 0px;
+}
+.menu1{
+	height: 70px;
+	width: 30%;
+	background-color: #DF5E19;
+	z-index: 2;
+	display: flex;
+	justify-content: center;
+	position: absolute;
+	top: 95px;
+	left: 50px;
+}
+.menu2{
+	height: 70px;
+	width: 20%;
+	background-color: white;
+	z-index: 3;
+	display: flex;
+	justify-content: center;
+	position: absolute;
+	top: 95px;
+	left: 38%;
+}
+.menu3{
+	height: 70px;
+	width: 20%;
+	background-color: white;
+	z-index: 4;
+	display: flex;
+	justify-content: center;
+	position: absolute;
+	top: 95px;
+	left: 59%;
+}
+.menu4{
+	height: 70px;
+	width: 20%;
+	background-color: white;
+	z-index: 5;
+	display: flex;
+	justify-content: center;
+	position: absolute;
+	top: 95px;
+	left: 80%;
+}
+.altura1{
+	background-color: #0d0d0d;
+	height: 1200px;
+	width: 102%;
+	position:relative;
+	z-index: 6;
+	top: 99px;
+ }
+.altura2{
+ 	background-color: #808080;
+	height: 1200px;
+	width: 90%;
+	z-index: 7;
+	display: flex;
+	justify-content: center;
+	position: absolute;
+	top: 181px;
+	left: 90px;
+ }
+ .altura3{
+ 	background-color: #c0c0c0;
+	height: 1200px;
+	width: 30%;
+	z-index: 8;
+	display: flex;
+	justify-content: center;
+	position: absolute;
+	top: 181px;
+	left: 63%;
+ }
+.altura4{
+ 	background-color: #ff8c00;
+	height: 250px;
+	width: 30%;
+	z-index: 9;
+	display: flex;
+	justify-content: center;
+	position: absolute;
+	top: 220px;
+	left: 130px;
+ }
+ .altura5{
+ 	background-color: white;
+	height: 70px;
+	width: 35%;
+	z-index: 10;
+	display: flex;
+	justify-content: center;
+	position: absolute;
+	top: 490px;
+	left: 130px;
+ }
+.texto{
+ 	color: black;
+ 	background-color: transparent;
+	height: 70px;
+	width: 30%;
+	z-index: 11;
+	display: flex;
+	justify-content: center;
+	position: absolute;
+	top: 570px;
+	left: 118px;
+ }
+ .altura6{
+ 	background-color: #ff8c00;
+	height: 200px;
+	width: 20%;
+	z-index: 12;
+	display: flex;
+	justify-content: center;
+	position: absolute;
+	top: 800px;
+	left: 130px;
+ }
+.altura7{
+ 	background-color: white;
+	height: 70px;
+	width: 35%;
+	z-index: 13;
+	display: flex;
+	justify-content: center;
+	position: absolute;
+	top: 1020px;
+	left: 130px;
+ }
+ .texto1{
+ 	color: black;
+ 	background-color: transparent;
+	height: 70px;
+	width: 30%;
+	z-index: 14;
+	display: flex;
+	justify-content: center;
+	position: absolute;
+	top: 1100px;
+	left: 118px;
+ }
+ .altura8{
+ 	background-color: grey;
+	height: 70px;
+	width: 25%;
+	z-index: 15;
+	display: flex;
+	justify-content: center;
+	position: absolute;
+	top: 200px;
+	left: 875px;
+}
+ .texto2{
+ 	color: black;
+ 	background-color: transparent;
+	height: 100px;
+	width:25%;
+	z-index: 16;
+	display: flex;
+	justify-content: center;
+	position: absolute;
+	top: 279px;
+	left: 875px;
+ }
+  .altura9{
+ 	background-color: grey;
+	height: 70px;
+	width: 25%;
+	z-index: 17;
+	display: flex;
+	justify-content: center;
+	position: absolute;
+	top: 470px;
+	left: 875px;
+}
+ .texto3{
+ 	color: black;
+ 	background-color: transparent;
+	height: 100px;
+	width:25%;
+	z-index: 18;
+	display: flex;
+	justify-content: center;
+	position: absolute;
+	top: 560px;
+	left: 875px;
+ }
+.altura10{
+ 	background-color: grey;
+	height: 70px;
+	width: 25%;
+	z-index: 19;
+	display: flex;
+	justify-content: center;
+	position: absolute;
+	top: 740px;
+	left: 875px;
+}
+ .texto4{
+ 	color: black;
+ 	background-color: transparent;
+	height: 100px;
+	width:25%;
+	z-index: 20;
+	display: flex;
+	justify-content: center;
+	position: absolute;
+	top: 830px;
+	left: 875px;
+ }
+   .altura11{
+ 	background-color: grey;
+	height: 70px;
+	width: 25%;
+	z-index: 21;
+	display: flex;
+	justify-content: center;
+	position: absolute;
+	top: 1030px;
+	left: 875px;
+}
+ .texto5{
+ 	color: black;
+ 	background-color: transparent;
+	height: 100px;
+	width:25%;
+	z-index: 22;
+	display: flex;
+	justify-content: center;
+	position: absolute;
+	top: 1130px;
+	left: 875px;
+ }
+
+ /*pagina 2*/
+.cuadro1{
+	background-color: grey;
+	height: 350px;
+	width: 101%;
+	top: 40%;
+	left: 10%;
+}
+.cuadro2{
+	height: 250px;
+	width: 70%;
+	top: 14%;
+	left: 18%;
+	position: relative;
+}
+.cuadro3{
+	height: 70px;
+	width: 35%;
+	top: 14%;
+	left: 1%;
+	position: relative;
+} 
+.texto6{
+ 	background-color: transparent;
+	height: 100px;
+	width: 50%;
+	top: 16%;
+	left: 0%;
+	position: relative;
+ }
+ .cuadro4{
+	background-color: black;
+	height: 1130px;
+	width: 101%;
+}
+.cuadro5{
+	height: 450px;
+	width: 70%;
+	top: 5%;
+	left: 10%;
+	position: relative;
+}
+.texto7{
+ 	background-color: transparent;
+	height: 130px;
+	width: 70%;
+	top: 7%;
+	left: 9%;
+	position: relative;
+ } 
+ .cuadro6{
+	height: 150px;
+	width: 15%;
+	top: 8%;
+	left: 10%;
+	position: relative;
+}
+.texto8{
+ 	background-color: transparent;
+	height: 130px;
+	width: 15%;
+	top: 9%;
+	left: 10%;
+	position: relative;
+ }
+  .cuadro7{
+	height: 150px;
+	width: 15%;
+	bottom: 100px;
+	left: 28%;
+	position: relative;
+} 
+.texto9{
+ 	background-color: transparent;
+	height: 130px;
+	width: 15%;
+	bottom: 82px;
+	left: 28%;
+	position: relative;
+ }
+   .cuadro8{
+	height: 150px;
+	width: 15%;
+	bottom: 380px;
+	left: 46%;
+	position: relative;
+} 
+.texto10{
+ 	background-color: transparent;
+	height: 130px;
+	width: 15%;
+	bottom: 362px;
+	left: 46%;
+	position: relative;
+ }
+.cuadro9{
+	height: 150px;
+	width: 15%;
+	bottom: 660px;
+	left: 64%;
+	position: relative;
+} 
+.texto11{
+ 	background-color: transparent;
+	height: 130px;
+	width: 15%;
+	bottom: 643px;
+	left: 64%;
+	position: relative;
+ }
+ .cuadro10{
+	height: 1015px;
+	width: 90%;
+	top: 5%;
+	left: 0%;
+	position: relative;
+}
+.cuadro11{
+	height: 150px;
+	width: 30%;
+	bottom: 800px;
+	left: 10%;
+	position: relative;
+}
+.cuadro12{
+	height: 30px;
+	width: 40%;
+	bottom: 950px;
+	left: 45%;
+	position: relative;
+} 
+.texto12{
+ 	background-color: transparent;
+	height: 130px;
+	width: 40%;
+	bottom: 950px;
+	left: 45%;
+	position: relative;
+ }
+ .cuadro13{
+	height: 150px;
+	width: 30%;
+	bottom: 900px;
+	left: 10%;
+	position: relative;
+}
+.cuadro14{
+	height: 30px;
+	width: 40%;
+	bottom: 1050px;
+	left: 45%;
+	position: relative;
+} 
+.texto13{
+ 	background-color: transparent;
+	height: 130px;
+	width: 40%;
+	bottom: 1050px;
+	left: 45%;
+	position: relative;
+ }
+.cuadro15{
+	height: 150px;
+	width: 30%;
+	bottom: 1000px;
+	left: 10%;
+	position: relative;
+}
+.cuadro16{
+	height: 30px;
+	width: 40%;
+	bottom: 1150px;
+	left: 45%;
+	position: relative;
+} 
+.texto14{
+ 	background-color: transparent;
+	height: 130px;
+	width: 40%;
+	bottom: 1150px;
+	left: 45%;
+	position: relative;
+ }
+ .cuadro17{
+	height: 150px;
+	width: 30%;
+	bottom: 1100px;
+	left: 10%;
+	position: relative;
+}
+.cuadro18{
+	height: 30px;
+	width: 40%;
+	bottom: 1250px;
+	left: 45%;
+	position: relative;
+} 
+.texto15{
+ 	background-color: transparent;
+	height: 130px;
+	width: 40%;
+	bottom: 1250px;
+	left: 45%;
+	position: relative;
+ }
+
+ /*pagina3*/
+.columna1{
+	background-color: grey;
+	height: 100px;
+	width: 101%;
+}
+.columna2{
+	height: 60px;
+	width: 50%;
+	top: 20px;
+	left: 3%;
+	position: relative;
+}
+.columna3{
+	height: 60px;
+	width: 7%;
+	top: 18px;
+	left: 3%;
+	position: relative;
+}
+.columna4{
+	height: 60px;
+	width: 7%;
+	bottom: 18%;
+	left: 12%;
+	position: relative;
+}
+.columna5{
+	height: 60px;
+	width: 7%;
+	bottom: 43%;
+	left: 92%;
+	position: relative;
+}
+.columna6{
+	height: 60px;
+	width: 70%;
+	bottom: 68%;
+	left: 22%;
+	position: relative;
+}
+.columna7{
+	background-color: black;
+	height: 1230px;
+	width: 101%;
+}
+.columna8{
+	height: 150px;
+	width: 10%;
+	top: 20px;
+	left: 10%;
+	position: relative;
+}
+.columna9{
+	height: 30px;
+	width: 25%;
+	bottom: 39%;
+	left: 22%;
+	position: relative;
+} 
+.text1{
+ 	background-color: transparent;
+	height: 130px;
+	width: 25%;
+	bottom: 37%;
+	left: 22%;
+	position: relative;
+ }
+ .columna10{
+	height: 600px;
+	width: 80%;
+	bottom: 12%;
+	left: 10%;
+	position: relative;
+}
+.text2{
+ 	background-color: transparent;
+	height: 130px;
+	width: 50%;
+	bottom: 10%;
+	left: 10%;
+	position: relative;
+ }
+.text3{
+ 	background-color: transparent;
+	height: 130px;
+	width: 30%;
+	bottom: 10%;
+	left: 15%;
+	position: relative;
+ }
+.columna11{
+	height: 100px;
+	width: 7%;
+	top: 100px;
+	right:15%;
+	position: relative;
+}
+.columna12{
+	height: 100px;
+	width: 7%;
+	top: 100px;
+	right: 13%;
+	position: relative;
+}
+.columna13{
+	height: 100px;
+	width: 7%;
+	bottom: 53px;
+	left: 83%;
+	position: relative;
+}
+/*pagina4*/
+.fila1{
+	background-color: black;
+	height: 1230px;
+	width: 101%;
+}
+.fila2{
+	height: 60px;
+	width: 40%;
+	top: 20px;
+	left: 3%;
+	position: relative;
+}
+.text4{
+ 	background-color: transparent;
+	height: 130px;
+	width: 35%;
+	bottom: 1%;
+	left: 4%;
+	position: relative;
+ }
+.triangle{
+     width: 0; 
+     height: 0; 
+     border-left: 78px solid white;
+     border-top: 45px solid transparent;
+     border-bottom: 45px solid transparent;
+ }
+.centrar{
+	display:flex;
+	justify-content:center;
+	align-items: center;
+	height: 500px;
+	width: 20%;
+	bottom: 10%;
+	left: 4%;
+}
+.fila3{
+	height: 20px;
+	width: 30%;
+	bottom: 10%;
+	left: 4%;
+	position: relative;
+}
+ .circle1{
+	height: 2%;
+	width: 2%;
+	border-radius: 100%;
+	bottom: 10%;
+	right: 65%;
+	position: relative;
+ }
+.fila5{
+	height: 20px;
+	width: 65%;
+	bottom: 10%;
+	left: 1%;
+	position: relative;
+}
+ .fila6{
+	height: 90px;
+	width: 40%;
+	bottom: 10%;
+	left: 5%;
+	position: relative;
+}
+.text5{
+ 	background-color: transparent;
+	height: 130px;
+	width: 35%;
+	bottom: 2%;
+	right: 35%;
+	position: relative;
+ }
+ .fila7{
+	height: 90px;
+	width: 40%;
+	bottom: 24%;
+	left: 50%;
+	position: relative;
+}
+.text6{
+ 	background-color: transparent;
+	height: 130px;
+	width: 35%;
+	bottom: 16%;
+	left: 10%;
+	position: relative;
+ }
+ /*pagina5*/
+.cuadrado1{
+	background-color: black;
+	height: 1430px;
+	width: 101%;
+}
+ .cuadrado2{
+	height: 700px;
+	width: 90%;
+	top: 5%;
+	left: 5%;
+	position: relative;
+}
+.triangle1{
+     width: 0; 
+     height: 0; 
+     border-left: 78px solid pink;
+     border-top: 45px solid transparent;
+     border-bottom: 45px solid transparent;
+ }
+.centrar1{
+	display:flex;
+	justify-content:center;
+	align-items: center;
+	position: relative;
+	top: 14%;
+	left: 8%;
+	height: 500px;
+	width: 40%
+}
+ .cuadrado3{
+	height: 70px;
+	width: 40%;
+	bottom: 47%;
+	left: 45%;
+	position: relative;
+}
+.text7{
+ 	background-color: transparent;
+	height: 130px;
+	width: 40%;
+	bottom: 43%;
+	left: 45%;
+	position: relative;
+ }
+  .cuadrado4{
+	height: 200px;
+	width: 13%;
+	top: 9%;
+	left: 5%;
+	position: relative;
+}
+  .cuadrado5{
+	height: 50px;
+	width: 13%;
+	top: 27%;
+	right: 8%;
+	position: relative;
+}
+.text8{
+ 	background-color: transparent;
+	height: 130px;
+	width: 13%;
+	top: 32%;
+	right: 21%;
+	position: relative;
+ }
+   .cuadrado6{
+	height: 200px;
+	width: 13%;
+	top: 9%;
+	right: 16%;
+	position: relative;
+}
+  .cuadrado7{
+	height: 50px;
+	width: 13%;
+	top: 27%;
+	right: 29%;
+	position: relative;
+}
+.text9{
+ 	background-color: transparent;
+	height: 130px;
+	width: 13%;
+	top: 32%;
+	right: 42%;
+	position: relative;
+ }
+    .cuadrado8{
+	height: 200px;
+	width: 13%;
+	top: 9%;
+	right: 38%;
+	position: relative;
+}
+  .cuadrado9{
+	height: 50px;
+	width: 13%;
+	top: 184px;
+	left: 40%;
+	position: relative;
+}
+.text10{
+ 	background-color: transparent;
+	height: 130px;
+	width: 13%;
+	top: 18%;
+	left: 27%;
+	position: relative;
+ }
+     .cuadrado10{
+	height: 600px;
+	width: 34%;
+	bottom: 5%;
+	left: 35%;
+	position: relative;
+}
+  .cuadrado11{
+	height: 40px;
+	width: 30%;
+	bottom: 4%;
+	left: 3%;
+	position: relative;
+}
+.text11{
+ 	background-color: transparent;
+	height: 130px;
+	width: 29%;
+	bottom: 43%;
+	left: 63%;
+	position: relative;
+ }
+   .cuadrado12{
+	height: 40px;
+	width: 30%;
+	bottom: 33%;
+	left: 34%;
+	position: relative;
+}
+.text12{
+ 	background-color: transparent;
+	height: 130px;
+	width: 29%;
+	bottom: 30%;
+	left: 4%;
+	position: relative;
+ }
+    .cuadrado13{
+	height: 40px;
+	width: 30%;
+	bottom: 28%;
+	left: 63%;
+	position: relative;
+}
+.text13{
+ 	background-color: transparent;
+	height: 130px;
+	width: 29%;
+	bottom: 25%;
+	left: 33%;
+	position: relative;
+ }
+  /*pagina6*/
+  .regtangulo1{
+	background-color: grey;
+	height: 100px;
+	width: 101%;
+}
+.regtangulo2{
+	height: 60px;
+	width: 4%;
+	top: 18px;
+	left: 42%;
+	position: relative;
+}
+.regtangulo3{
+	height: 60px;
+	width: 4%;
+	bottom: 14%;
+	left: 47%;
+	position: relative;
+}
+.regtangulo4{
+	height: 60px;
+	width: 4%;
+	bottom: 34%;
+	left: 94%;
+	position: relative;
+}
+.regtangulo5{
+	height: 60px;
+	width: 20%;
+	bottom: 54%;
+	left: 73%;
+	position: relative;
+}
+.regtangulo6{
+	height: 60px;
+	width: 20%;
+	bottom: 74%;
+	left: 52%;
+	position: relative;
+}
+.regtangulo7{
+	background-color: black;
+	height: 1130px;
+	width: 101%;
+}
+.regtangulo8{
+	height: 1000px;
+	width: 34%;
+	top: 5%;
+	left: 5%;
+	position: relative;
+}
+.text14{
+ 	background-color: transparent;
+	height: 130px;
+	width: 29%;
+	top: 8%;
+	right: 26%;
+	position: relative;
+ }
+ .text15{
+ 	background-color: transparent;
+	height: 130px;
+	width: 29%;
+	top: 15%;
+	right: 55%;
+	position: relative;
+ }
+  .text16{
+ 	background-color: transparent;
+	height: 130px;
+	width: 29%;
+	bottom: 66%;
+	left: 8%;
+	position: relative;
+ }
+  .text17{
+ 	background-color: transparent;
+	height: 130px;
+	width: 29%;
+	bottom: 60%;
+	right: 21%;
+	position: relative;
+ }
+  .text18{
+ 	background-color: transparent;
+	height: 130px;
+	width: 29%;
+	bottom: 55%;
+	right: 50%;
+	position: relative;
+ }
+ .regtangulo9{
+	height: 60px;
+	width: 34%;
+	bottom: 61%;
+	left: 5%;
+	position: relative;
+}
+ .regtangulo10{
+	height: 60px;
+	width: 1%;
+	bottom: 61%;
+	left: 6%;
+	position: relative;
+}
+ .regtangulo11{
+	height: 20px;
+	width: 32%;
+	bottom: 59%;
+	right: 29%;
+	position: relative;
+}
+.text19{
+ 	background-color: transparent;
+	height: 130px;
+	width: 29%;
+	bottom: 53%;
+	right: 60%;
+	position: relative;
+ }
+ .text20{
+ 	background-color: transparent;
+	height: 130px;
+	width: 29%;
+	bottom: 58%;
+	left: 7%;
+	position: relative;
+ }
+  .text21{
+ 	background-color: transparent;
+	height: 130px;
+	width: 29%;
+	bottom: 50%;
+	right: 22%;
+	position: relative;
+ }
+  .text22{
+ 	background-color: transparent;
+	height: 130px;
+	width: 29%;
+	bottom: 43%;
+	right: 51%;
+	position: relative;
+ }
+  .text23{
+ 	background-color: transparent;
+	height: 130px;
+	width: 29%;
+	bottom: 48%;
+	left: 7%;
+	position: relative;
+ }
+   .text24{
+ 	background-color: transparent;
+	height: 130px;
+	width: 29%;
+	bottom: 41%;
+	right: 22%;
+	position: relative;
+ }
+.regtangulo12{
+	height: 450px;
+	width:50%;
+	bottom: 129%;
+	left: 45%;
+	position: relative;
+}
+.regtangulo13{
+	height: 200px;
+	width: 13%;
+	bottom: 78%;
+	right: 5%;
+	position: relative;
+}
+.regtangulo14{
+	height: 50px;
+	width: 13%;
+	bottom: 59%;
+	right: 18%;
+	position: relative;
+}
+.text25{
+ 	background-color: transparent;
+	height: 130px;
+	width: 13%;
+	bottom: 53%;
+	right: 31%;
+	position: relative;
+ }
+.regtangulo15{
+	height: 200px;
+	width: 13%;
+	bottom: 118%;
+	left: 62%;
+	position: relative;
+}
+.regtangulo16{
+	height: 50px;
+	width: 13%;
+	bottom: 99%;
+	left: 49%;
+	position: relative;
+}
+.text26{
+ 	background-color: transparent;
+	height: 130px;
+	width: 13%;
+	bottom: 94%;
+	left: 36%;
+	position: relative;
+ }
+.regtangulo17{
+	height: 200px;
+	width: 13%;
+	bottom: 118%;
+	left: 40%;
+	position: relative;
+}
+.regtangulo18{
+	height: 50px;
+	width: 13%;
+	bottom: 99%;
+	left: 27%;
+	position: relative;
+}
+.text27{
+ 	background-color: transparent;
+	height: 130px;
+	width: 13%;
+	bottom: 94%;
+	left: 14%;
+	position: relative;
+ }
+  .regtangulo19{
+	background-color: grey;
+	height: 300px;
+	width: 101%;
+}
+.text28{
+ 	background-color: transparent;
+	height: 130px;
+	width: 20%;
+	top: 10%;
+	left: 6%;
+	position: relative;
+ }
+ .text29{
+ 	background-color: transparent;
+	height: 130px;
+	width: 20%;
+	top: 10%;
+	left: 8%;
+	position: relative;
+ }
+ .text30{
+ 	background-color: transparent;
+	height: 130px;
+	width: 20%;
+	top: 10%;
+	left: 10%;
+	position: relative;
+ }
+ .text31{
+ 	background-color: transparent;
+	height: 130px;
+	width: 20%;
+	top: 10%;
+	left: 12%;
+	position: relative;
+ }
+   /*pagina7*/
+  .box1{
+	background-color: grey;
+	height: 100px;
+	width: 101%;
+}
+.box2{
+	height: 60px;
+	width: 4%;
+	top: 18px;
+	left: 42%;
+	position: relative;
+}
+.box3{
+	height: 60px;
+	width: 4%;
+	bottom: 14%;
+	left: 47%;
+	position: relative;
+}
+.box4{
+	height: 60px;
+	width: 4%;
+	bottom: 34%;
+	left: 94%;
+	position: relative;
+}
+.box5{
+	height: 60px;
+	width: 20%;
+	bottom: 54%;
+	left: 73%;
+	position: relative;
+}
+.box6{
+	height: 60px;
+	width: 20%;
+	bottom: 74%;
+	left: 52%;
+	position: relative;
+}
+.box7{
+	background-color: black;
+	height: 1160px;
+	width: 101%;
+}
+ .box8{
+	height: 700px;
+	width: 90%;
+	top: 5%;
+	left: 5%;
+	position: relative;
+}
+.box9{
+	height: 60px;
+	width: 4%;
+	top: 305px;
+	left: 65%;
+	position: relative;
+}
+.box10{
+	height: 60px;
+	width: 50%;
+	top: 35%;
+	left: 15%;
+	position: relative;
+}
+.box11{
+	height: 350px;
+	width: 18%;
+	top: 8%;
+	left: 5%;
+	position: relative;
+}
+.box12{
+	height: 60px;
+	width: 50%;
+	top: 8%;
+	left: 8%;
+	position: relative;
+}
+ .text32{
+ 	background-color: transparent;
+	height: 130px;
+	width: 50%;
+	bottom: 16%;
+	left: 26%;
+	position: relative;
+ }
+ .box13{
+	height: 150px;
+	width: 10%;
+	bottom: 22%;
+	left: 28%;
+	position: relative;
+}
+.box14{
+	height: 30px;
+	width: 10%;
+	bottom: 22%;
+	left: 29%;
+	position: relative;
+} 
+.text33{
+ 	background-color: transparent;
+	height: 130px;
+	width: 10%;
+	bottom: 18%;
+	left: 19%;
+	position: relative;
+ }
+  .box15{
+	height: 150px;
+	width: 10%;
+	bottom: 7%;
+	right: 2%;
+	position: relative;
+}
+.box16{
+	height: 30px;
+	width: 10%;
+	bottom: 7%;
+	right: 1%;
+	position: relative;
+} 
+.text34{
+ 	background-color: transparent;
+	height: 130px;
+	width: 10%;
+	bottom: 16%;
+	left: 89%;
+	position: relative;
+ }
+/*pagina´8*/
+.box-1{
+	background-color: grey;
+	height: 100px;
+	width: 101%;
+}
+.box-2{
+	height: 60px;
+	width: 4%;
+	top: 18px;
+	left: 42%;
+	position: relative;
+}
+.box-3{
+	height: 60px;
+	width: 4%;
+	bottom: 14%;
+	left: 47%;
+	position: relative;
+}
+.box-4{
+	height: 60px;
+	width: 4%;
+	bottom: 34%;
+	left: 94%;
+	position: relative;
+}
+.box-5{
+	height: 60px;
+	width: 20%;
+	bottom: 54%;
+	left: 73%;
+	position: relative;
+}
+.box-6{
+	height: 60px;
+	width: 20%;
+	bottom: 74%;
+	left: 52%;
+	position: relative;
+}
+.box-7{
+	background-color: black;
+	height: 1160px;
+	width: 101%;
+}
+ .box-8{
+	height: 700px;
+	width: 90%;
+	top: 5%;
+	left: 5%;
+	position: relative;
+}
+.box-9{
+	height: 60px;
+	width: 4%;
+	top: 620px;
+	left: 42%;
+	position: relative;
+}
+.box-10{
+	height: 60px;
+	width: 4%;
+	top: 561px;
+	left: 47%;
+	position: relative;
+}
+.box-11{
+	height: 60px;
+	width: 4%;
+	top: 500px;
+	left: 37%;
+	position: relative;
+}
+.box-12{
+	height: 60px;
+	width: 4%;
+	top: 441px;
+	left: 52%;
+	position: relative;
+}
+.box-13{
+	height: 60px;
+	width: 20%;
+	top: 2%;
+	left: 5%;
+	position: relative;
+}
+.text35{
+ 	background-color: transparent;
+	height: 130px;
+	width: 20%;
+	top: 9%;
+	right: 15%;
+	position: relative;
+ }
+ .box-14{
+	height: 60px;
+	width: 5%;
+	top: 18%;
+	right: 35%;
+	position: relative;
+}
+.box-15{
+	height: 60px;
+	width: 5%;
+	top: 18%;
+	right: 33%;
+	position: relative;
+}
+.box-16{
+	height: 60px;
+	width: 5%;
+	top: 18%;
+	right: 31%;
+	position: relative;
+}
+.text36{
+ 	background-color: transparent;
+	height: 130px;
+	width: 20%;
+	top: 24%;
+	right: 50%;
+	position: relative;
+ }
+ .text37{
+ 	background-color: transparent;
+	height: 130px;
+	width: 40%;
+	bottom: 12%;
+	left: 55%;
+	position: relative;
+ }
+  .box-17{
+	height: 120px;
+	width: 10%;
+	top: 5%;
+	left: 44%;
+	position: relative;
+}
+.box-18{
+	height: 120px;
+	width: 10%;
+	top: 5%;
+	left: 20%;
+	position: relative;
+}
+.box-19{
+	height: 120px;
+	width: 10%;
+	top: 5%;
+	right: 4%;
+	position: relative;
+}
+/*pagina9*/
+.box--1{
+	background-color: black;
+	height: 1460px;
+	width: 101%;
+}
+.box--2{
+	height: 40px;
+	width: 20%;
+	top: 5%;
+	left: 5%;
+	position: relative;
+}
+ .text38{
+ 	background-color: transparent;
+	height: 130px;
+	width: 40%;
+	top: 9%;
+	right: 15%;
+	position: relative;
+ }
+ .box--3{
+	height: 200px;
+	width: 15%;
+	top: 20%;
+	right: 55%;
+	position: relative;
+}
+ .box--4{
+	height: 200px;
+	width: 75%;
+	top: 38px;
+	left: 22%;
+	position: relative;
+}
+ .box--5{
+	height: 200px;
+	width: 15%;
+	top: 19%;
+	right: 70%;
+	position: relative;
+}
+ .box--6{
+	height: 200px;
+	width: 75%;
+	top: 23px;
+	left: 22%;
+	position: relative;
+}
+ .box--7{
+	height: 200px;
+	width: 15%;
+	top: 18%;
+	right: 70%;
+	position: relative;
+}
+ .box--8{
+	height: 200px;
+	width: 75%;
+	top: 10px;
+	left: 22%;
+	position: relative;
+}
+ .box--9{
+	height: 200px;
+	width: 15%;
+	top: 17%;
+	right: 70%;
+	position: relative;
+}
+ .box--10{
+	height: 200px;
+	width: 75%;
+	bottom: 5px;
+	left: 22%;
+	position: relative;
+}
+ .text39{
+ 	background-color: transparent;
+	height: 130px;
+	width: 40%;
+	left: 58%;
+	bottom: 1%;
+	position: relative;
+ }
+
+/*animaciones*/
+
+.animate{
+	animation: zoomInDown; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 1s; /* don't forget to set a duration! */
+}
+
+.animate1{
+	display: inline-block;
+	animation: bounceInDown; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 1s; /* don't forget to set a duration! */
+}
+.animate2{
+	display: inline-block;
+	animation: backInLeft; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 1.5s; /* don't forget to set a duration! */
+}
+.animate3{
+	display: inline-block;
+	animation: backInLeft; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 2s; /* don't forget to set a duration! */
+}
+.animate4{
+	display: inline-block;
+	animation: backInRight; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 2.5s; /* don't forget to set a duration! */
+}
+.animate5{
+	display: inline-block;
+	animation: backInRight; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 3s; /* don't forget to set a duration! */
+}
+.animate6{
+	display: inline-block;
+	animation: bounceInDown; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 3.5s; /* don't forget to set a duration! */
+}
+.animate7{
+	display: inline-block;
+	animation: bounceInDown; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 4s; /* don't forget to set a duration! */
+}
+.animate8{
+	display: inline-block;
+	animation: bounceInDown; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 4.5s; /* don't forget to set a duration! */
+}
+.animate9{
+	display: inline-block;
+	animation: backInLeft; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 5s; /* don't forget to set a duration! */
+}
+.animate10{
+	display: inline-block;
+	animation: backInLeft; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 5.5s; /* don't forget to set a duration! */
+}
+.animate11{
+	display: inline-block;
+	animation: backInLeft; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 6s; /* don't forget to set a duration! */
+}
+.animate12{
+	display: inline-block;
+	animation: backInLeft; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 6.5s; /* don't forget to set a duration! */
+}
+.animate13{
+	display: inline-block;
+	animation: backInLeft; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 7s; /* don't forget to set a duration! */
+}
+.animate14{
+	display: inline-block;
+	animation: backInLeft; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 7.5s; /* don't forget to set a duration! */
+}
+.animate15{
+	display: inline-block;
+	animation: backInRight; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 8s; /* don't forget to set a duration! */
+}
+.animate16{
+	display: inline-block;
+	animation: backInRight; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 8.5s; /* don't forget to set a duration! */
+}
+.animate17{
+	display: inline-block;
+	animation: backInRight; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 9s; /* don't forget to set a duration! */
+}
+.animate18{
+	display: inline-block;
+	animation: backInRight; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 9s; /* don't forget to set a duration! */
+}
+.animate19{
+	display: inline-block;
+	animation: backInRight; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 9s; /* don't forget to set a duration! */
+}
+.animate20{
+	display: inline-block;
+	animation: backInRight; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 9s; /* don't forget to set a duration! */
+}
+.animate21{
+	display: inline-block;
+	animation: backInRight; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 9s; /* don't forget to set a duration! */
+}
+.animate22{
+	display: inline-block;
+	animation: backInRight; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 9s; /* don't forget to set a duration! */
+}
+
+/*pagina2*/
+
+.animate23{
+	display: inline-block;
+	animation: backInLeft; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 1s; /* don't forget to set a duration! */
+}
+.animate24{
+	display: inline-block;
+	animation: backInLeft; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 1.5s; /* don't forget to set a duration! */
+}
+.animate25{
+	display: inline-block;
+	animation: backInLeft; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 2s; /* don't forget to set a duration! */
+}
+.animate26{
+	display: inline-block;
+	animation: backInLeft; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 2.5s; /* don't forget to set a duration! */
+}
+.animate27{
+	display: inline-block;
+	animation: backInLeft; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 3s; /* don't forget to set a duration! */
+}
+.animate28{
+	display: inline-block;
+	animation: backInLeft; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 3.5s; /* don't forget to set a duration! */
+}
+.animate29{
+	
+	animation: bounceInUp; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 4s; /* don't forget to set a duration! */
+}
+.animate30{	
+	animation: bounceInUp; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 4.5s; /* don't forget to set a duration! */
+}
+.animate31{
+	animation: bounceInUp; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 5s; /* don't forget to set a duration! */
+}
+.animate32{
+	animation: bounceInUp; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 5.5s; /* don't forget to set a duration! */
+}
+.animate33{
+	animation: bounceInUp; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 6s; /* don't forget to set a duration! */
+}
+.animate34{
+	animation: bounceInUp; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 6.5s; /* don't forget to set a duration! */
+}
+.animate35{
+	animation: bounceInUp; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 7s; /* don't forget to set a duration! */
+}
+.animate36{
+	animation: bounceInUp; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 7.5s; /* don't forget to set a duration! */
+}
+.animate37{
+	animation: bounceInDown; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 8s; /* don't forget to set a duration! */
+}
+.animate38{
+	animation: bounceInDown; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 2.5s; /* don't forget to set a duration! */
+}
+.animate39{
+	animation: backInRight; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 8s; /* don't forget to set a duration! */
+}
+.animate40{
+	animation: backInRight; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 8s; /* don't forget to set a duration! */
+}
+.animate41{
+	animation: backInRight; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 8s; /* don't forget to set a duration! */
+}
+.animate42{
+	animation: backInRight; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 8.5s; /* don't forget to set a duration! */
+}
+.animate43{
+	animation: backInRight; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 8.5s; /* don't forget to set a duration! */
+}
+.animate44{
+	animation: backInRight; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 8.5s; /* don't forget to set a duration! */
+}
+.animate45{
+	animation: backInRight; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 9s; /* don't forget to set a duration! */
+}
+.animate46{
+	animation: backInRight; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 9s; /* don't forget to set a duration! */
+}
+.animate47{
+	animation: backInRight; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 9s; /* don't forget to set a duration! */
+}
+.animate48{
+	animation: backInRight; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 9.5s; /* don't forget to set a duration! */
+}
+.animate49{
+	animation: backInRight; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 9.5s; /* don't forget to set a duration! */
+}
+.animate50{
+	animation: backInRight; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 9.5s; /* don't forget to set a duration! */
+}
+.animate51{
+	animation: backInRight; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 0.5s; /* don't forget to set a duration! */
+}
+
+/*pagina3*/
+
+.animate52{
+	animation: backInDown; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 0.5s; /* don't forget to set a duration! */
+}
+.animate53{
+	animation: backInDown; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 1s; /* don't forget to set a duration! */
+}
+.animate54{
+	animation: backInDown; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 1.5s; /* don't forget to set a duration! */
+}
+.animate55{
+	animation: backInDown; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 2s; /* don't forget to set a duration! */
+}
+.animate56{
+	animation: backInDown; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 2.5s; /* don't forget to set a duration! */
+}
+.animate57{
+	animation: backInDown; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 3s; /* don't forget to set a duration! */
+}
+.animate58{
+	animation: backInDown; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 3.5s; /* don't forget to set a duration! */
+}
+.animate59{
+	animation: backInLeft; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 4s; /* don't forget to set a duration! */
+}
+.animate60{
+	animation: backInLeft; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 4.5s; /* don't forget to set a duration! */
+}
+.animate61{
+	animation: backInLeft; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 5s; /* don't forget to set a duration! */
+}
+.animate62{
+	animation: backInLeft; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 5.5s; /* don't forget to set a duration! */
+}
+.animate63{
+	animation: backInLeft; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 6s; /* don't forget to set a duration! */
+}
+.animate64{
+	animation: backInRight; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 6.5s; /* don't forget to set a duration! */
+}
+.animate65{
+	animation: bounceInUp; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 7s; /* don't forget to set a duration! */
+}
+.animate66{
+	animation: bounceInUp; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 7.5s; /* don't forget to set a duration! */
+}
+.animate67{
+	animation: bounceInUp; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 8s; /* don't forget to set a duration! */
+}
+
+/*pagina4*/
+
+.animate68{
+	animation: backInDown; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 1s; /* don't forget to set a duration! */
+}
+.animate69{
+	animation: backInLeft; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 1.5s; /* don't forget to set a duration! */
+}
+.animate70{
+	animation: backInLeft; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 2s; /* don't forget to set a duration! */
+}
+.animate71{
+	animation: backInLeft; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 2.5s; /* don't forget to set a duration! */
+}
+.animate72{
+	animation: backInLeft; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 3s; /* don't forget to set a duration! */
+}
+.animate73{
+	animation: bounceInUp; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 3.5s; /* don't forget to set a duration! */
+}
+.animate74{
+	animation: bounceInUp; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 4s; /* don't forget to set a duration! */
+}
+.animate75{
+	animation: bounceInUp; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 4.5s; /* don't forget to set a duration! */
+}
+.animate76{
+	animation: bounceInUp; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 5s; /* don't forget to set a duration! */
+}
+
+/*pagina 5*/
+
+.animate77{
+	animation: backInDown; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 0.5s; /* don't forget to set a duration! */
+}
+.animate78{
+	animation: backInDown; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 1s; /* don't forget to set a duration! */
+}
+.animate79{
+	animation: backInLeft; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 1.5s; /* don't forget to set a duration! */
+}
+.animate80{
+	animation: backInRight; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 2s; /* don't forget to set a duration! */
+}
+.animate81{
+	animation: backInRight; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 2.5s; /* don't forget to set a duration! */
+}
+.animate82{
+	animation: bounceInUp; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 3s; /* don't forget to set a duration! */
+}
+.animate83{
+	animation: bounceInUp; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 3.5s; /* don't forget to set a duration! */
+}
+.animate84{
+	animation: bounceInUp; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 4s; /* don't forget to set a duration! */
+}
+.animate85{
+	animation: bounceInUp; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 4.5s; /* don't forget to set a duration! */
+}
+.animate86{
+	animation: bounceInUp; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 5s; /* don't forget to set a duration! */
+}
+.animate87{
+	animation: bounceInUp; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 5.5s; /* don't forget to set a duration! */
+}
+.animate88{
+	animation: bounceInUp; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 6s; /* don't forget to set a duration! */
+}
+.animate89{
+	animation: bounceInUp; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 6.5s; /* don't forget to set a duration! */
+}
+.animate90{
+	animation: bounceInUp; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 7s; /* don't forget to set a duration! */
+}
+.animate91{
+	animation: backInDown; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 7.5s; /* don't forget to set a duration! */
+}
+.animate92{
+	animation: backInRight; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 8s; /* don't forget to set a duration! */
+}
+.animate93{
+	animation: backInRight; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 8.5s; /* don't forget to set a duration! */
+}
+.animate94{
+	animation: backInRight; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 9s; /* don't forget to set a duration! */
+}
+.animate95{
+	animation: backInRight; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 9.5s; /* don't forget to set a duration! */
+}
+.animate96{
+	animation: backInRight; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 10s; /* don't forget to set a duration! */
+}
+.animate97{
+	animation: backInRight; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 10.5s; /* don't forget to set a duration! */
+}
+/*pagina6*/
+
+.animate98{
+	animation: backInDown; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 1s; /* don't forget to set a duration! */
+}
+.animate99{
+	animation: backInDown; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 1.5s; /* don't forget to set a duration! */
+}
+.animate100{
+	animation: backInDown; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 2s; /* don't forget to set a duration! */
+}
+.animate101{
+	animation: backInDown; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 2.5s; /* don't forget to set a duration! */
+}
+.animate102{
+	animation: backInDown; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 3s; /* don't forget to set a duration! */
+}
+.animate103{
+	animation: backInDown; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 3.5s; /* don't forget to set a duration! */
+}
+.animate104{
+	animation: backInDown; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 4s; /* don't forget to set a duration! */
+}
+.animate105{
+	animation: backInDown; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 4.5s; /* don't forget to set a duration! */
+}
+.animate106{
+	animation: backInLeft; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 5s; /* don't forget to set a duration! */
+}
+.animate107{
+	animation: backInLeft; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 5.5s; /* don't forget to set a duration! */
+}
+.animate108{
+	animation: backInLeft; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 6s; /* don't forget to set a duration! */
+}
+.animate109{
+	animation: backInLeft; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 6.5s; /* don't forget to set a duration! */
+}
+.animate110{
+	animation: backInLeft; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 7s; /* don't forget to set a duration! */
+}
+.animate111{
+	animation: backInLeft; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 7.5s; /* don't forget to set a duration! */
+}
+.animate112{
+	animation: backInLeft; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 8s; /* don't forget to set a duration! */
+}
+.animate113{
+	animation: backInLeft; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 8.5s; /* don't forget to set a duration! */
+}
+.animate114{
+	animation: backInLeft; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 9s; /* don't forget to set a duration! */
+}
+.animate115{
+	animation: backInLeft; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 9.5s; /* don't forget to set a duration! */
+}
+.animate116{
+	animation: backInLeft; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 10s; /* don't forget to set a duration! */
+}
+.animate117{
+	animation: backInLeft; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 10.5s; /* don't forget to set a duration! */
+}
+.animate118{
+	animation: backInLeft; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 11s; /* don't forget to set a duration! */
+}
+.animate119{
+	animation: backInLeft; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 11.5s; /* don't forget to set a duration! */
+}
+.animate120{
+	animation: backInDown; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 12s; /* don't forget to set a duration! */
+}
+.animate121{
+	animation: backInRight; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 12.5s; /* don't forget to set a duration! */
+}
+.animate122{
+	animation: backInRight; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 13s; /* don't forget to set a duration! */
+}
+.animate123{
+	animation: backInRight; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 13.5s; /* don't forget to set a duration! */
+}
+.animate124{
+	animation: backInRight; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 14s; /* don't forget to set a duration! */
+}
+.animate125{
+	animation: backInRight; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 14.5s; /* don't forget to set a duration! */
+}
+.animate126{
+	animation: backInRight; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 15s; /* don't forget to set a duration! */
+}
+.animate127{
+	animation: backInRight; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 15.5s; /* don't forget to set a duration! */
+}
+.animate128{
+	animation: backInRight; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 16s; /* don't forget to set a duration! */
+}
+.animate129{
+	animation: backInRight; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 16.5s; /* don't forget to set a duration! */
+}
+.animate130{
+	animation: backInLeft; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 17s; /* don't forget to set a duration! */
+}
+.animate131{
+	animation: bounceInUp; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 17.5s; /* don't forget to set a duration! */
+}
+.animate132{
+	animation: bounceInUp; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 18s; /* don't forget to set a duration! */
+}
+.animate133{
+	animation: bounceInUp; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 18.5s; /* don't forget to set a duration! */
+}
+.animate134{
+	animation: bounceInUp; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 19s; /* don't forget to set a duration! */
+}
+/*pagina 7*/
+.animate135{
+	animation: backInDown; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 4s; /* don't forget to set a duration! */
+}
+.animate136{
+	animation: backInDown; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 4.5s; /* don't forget to set a duration! */
+}
+.animate137{
+	animation: backInDown; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 5s; /* don't forget to set a duration! */
+}
+.animate138{
+	animation: backInDown; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 5.5s; /* don't forget to set a duration! */
+}
+.animate139{
+	animation: backInLeft; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 6s; /* don't forget to set a duration! */
+}
+.animate140{
+	animation: backInLeft; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 6.5s; /* don't forget to set a duration! */
+}
+.animate141{
+	animation: backInLeft; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 7s; /* don't forget to set a duration! */
+}
+.animate142{
+	animation: backInRight; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 7.5s; /* don't forget to set a duration! */
+}
+.animate143{
+	animation: backInRight; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 8s; /* don't forget to set a duration! */
+}
+.animate144{
+	animation: backInRight; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 8.5s; /* don't forget to set a duration! */
+}
+.animate145{
+	animation: backInRight; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 9s; /* don't forget to set a duration! */
+}
+.animate146{
+	animation: backInRight; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 9.5s; /* don't forget to set a duration! */
+}
+.animate147{
+	animation: backInRight; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 10s; /* don't forget to set a duration! */
+}
+
+/*pagina8*/
+
+.animate148{
+	animation: backInDown; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 10.5s; /* don't forget to set a duration! */
+}
+.animate149{
+	animation: backInDown; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 11s; /* don't forget to set a duration! */
+}
+.animate150{
+	animation: backInDown; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 11.5s; /* don't forget to set a duration! */
+}
+.animate151{
+	animation: backInDown; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 12s; /* don't forget to set a duration! */
+}
+.animate152{
+	animation: backInDown; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 12.5s; /* don't forget to set a duration! */
+}
+.animate153{
+	animation: backInDown; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 13s; /* don't forget to set a duration! */
+}
+.animate154{
+	animation: backInLeft; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 13.5s; /* don't forget to set a duration! */
+}
+.animate155{
+	animation: backInLeft; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 14s; /* don't forget to set a duration! */
+}
+.animate156{
+	animation: backInLeft; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 14.5s; /* don't forget to set a duration! */
+}
+.animate157{
+	animation: backInLeft; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 15s; /* don't forget to set a duration! */
+}
+.animate158{
+	animation: backInLeft; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 15.5s; /* don't forget to set a duration! */
+}
+.animate159{
+	animation: backInLeft; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 16s; /* don't forget to set a duration! */
+}
+.animate160{
+	animation: backInRight; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 16.5s; /* don't forget to set a duration! */
+}
+.animate161{
+	animation: backInRight; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 17s; /* don't forget to set a duration! */
+}
+.animate162{
+	animation: backInRight; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 17.5s; /* don't forget to set a duration! */
+}
+.animate163{
+	animation: backInRight; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 18s; /* don't forget to set a duration! */
+}
+
+/*pagina9*/
+
+.animate164{
+	animation: backInDown; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 1s; /* don't forget to set a duration! */
+}
+.animate165{
+	animation: backInLeft; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 1.5s; /* don't forget to set a duration! */
+}
+.animate166{
+	animation: backInLeft; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 2s; /* don't forget to set a duration! */
+}
+.animate167{
+	animation: backInLeft; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 2.5s; /* don't forget to set a duration! */
+}
+.animate168{
+	animation: backInRight; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 3s; /* don't forget to set a duration! */
+}
+.animate169{
+	animation: backInLeft; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 3.5s; /* don't forget to set a duration! */
+}
+.animate170{
+	animation: backInRight; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 4s; /* don't forget to set a duration! */
+}
+.animate171{
+	animation: backInLeft; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 4.5s; /* don't forget to set a duration! */
+}
+.animate172{
+	animation: backInRight; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 5s; /* don't forget to set a duration! */
+}
+.animate173{
+	animation: backInLeft; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 5.5s; /* don't forget to set a duration! */
+}
+.animate174{
+	animation: backInRight; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 6s; /* don't forget to set a duration! */
+}
+.animate175{
+	animation: bounceInUp; /* referring directly to the animation's @keyframe declaration */
+	animation-duration: 6.5s; /* don't forget to set a duration! */
+}
